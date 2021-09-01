@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: url("adam-kool-ndN00KmbJ1c-unsplash.jpg") no-repeat center center/cover;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.number {
+    color: #ffff;
+    font-size: 2rem;
+}
