@@ -17,13 +17,13 @@ body {
 
 .img {
     background: url("adam-kool-ndN00KmbJ1c-unsplash.jpg") no-repeat center center/cover;
-    height: inherit;
-    width: inherit;
+    height: 100vh;
+    width: 100vw;
     position: absolute;
     top: 0;
     left: 0;
     z-index: -10;
-    /* filter: blur(30px); */
+    filter: blur(30px);
 }
 
 .number {
